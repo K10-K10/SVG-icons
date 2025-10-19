@@ -6,5 +6,6 @@
 			<circle cx="35" cy="38" r="30" fill="black" />
 		</mask>
 	</defs>
-	<circle cx="50" cy="43" r="30" fill="black" mask="url(#moonMask)" />
+	<circle cx="50" cy="43" r="30" fill="white" mask="url(#moonMask)" />
 </svg>
+
